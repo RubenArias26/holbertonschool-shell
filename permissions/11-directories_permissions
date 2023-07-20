@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R go+wx /root/holbertonschool-shell/permissions 
