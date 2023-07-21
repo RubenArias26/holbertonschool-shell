@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent:staff /root/holbertonschool-shell/permissions
+chown -hR vincent:staff /root/holbertonschool-shell/permissions
